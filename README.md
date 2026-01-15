@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **5+ years** of commercial experience in **TypeScript**, **Node.js**, and **NestJS**
+- 🚀 **7+ years** of commercial experience in **TypeScript**, **Node.js**, and **NestJS**
 - 🏛️ Built government-grade platforms (e-IDEA — National e-Democracy Platform for Ukraine)
 - 🔧 Specialized in **backend architecture**, **microservices**, and **automation systems**
 - 🤖 Expert in workflow automation with **n8n**, **RabbitMQ**, and **event-driven systems**
