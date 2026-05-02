@@ -1,29 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vladyslav-Eduard%20(Ed)%20Svystun&fontSize=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20TypeScript%20Developer%20|%20Backend%20Architecture&descSize=18&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vladyslav-Eduard%20(Ed)%20Svystun&fontSize=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20TypeScript%20Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=F27D16&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+TypeScript+Developer;Backend+Architecture+%26+Automation;In+Active+Military+Service+(AFU)+🇺🇦" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=F27D16&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+TypeScript+Developer;Backend+%26+Platform+Engineering;Event-Driven+Microservices;IaC+%26+Workflow+Automation" />
 </p>
 
 ---
 
-<div align="center">
-
 ## 📜 Important Update
 
-<br/>
-
 > **As of March 2026, I have been mobilized into the Armed Forces of Ukraine.**
-> My professional software development activities, commercial projects, and availability are currently on a temporary pause. Thank you to everyone I've worked with. Support the military and stay safe! 🇺🇦
+> **Availability:** professional software development work is currently **on hold**.
 
-</div>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer&width=1000" />
-</p>
+## ⚡ TL;DR Snapshot
 
-<br/>
+- **Role:** Full-Stack / Backend TypeScript Engineer (platform & automation)
+- **Experience:** **7+ years** commercial experience
+- **Focus:** microservices, event-driven systems, secure APIs, Infrastructure as Code
+- **Automation:** **n8n** workflows, integrations, operational tooling
+- **Messaging:** **RabbitMQ** for event-driven architectures
+- **Status:** serving in the **Armed Forces of Ukraine**
+
+---
+
+## 🧭 Table of Contents
+
+- [👨‍💻 About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [💼 Selected Projects](#-selected-projects)
+- [🎯 Professional Focus (On Hold)](#-professional-focus-on-hold)
+- [📫 Get in Touch](#-get-in-touch)
+- [🌍 Languages](#-languages)
+- [⚡ Fun Facts](#-fun-facts)
+
+---
 
 ## 👨‍💻 About Me
 
@@ -36,12 +49,11 @@
 
 </div>
 
-- **🚀 7+ years** of commercial experience in backend and full-stack development.
-- **🏛️ Architect** of national e-gov platforms (e-IDEA) and complex automation systems.
-- **🔧 Specialized** in microservices, event-driven architectures, and Infrastructure as Code (IaC).
-- **🤖 Expert** in advanced workflow automation using **n8n** and **RabbitMQ**.
-- **🌍 Currently** serving in the **Armed Forces of Ukraine**.
-- **📚 Master's Degree** in Computer Engineering.
+- **🏛️ Backend architect** for national e-gov platforms (e-IDEA) and complex automation systems
+- **🔧 Specialized** in microservices, event-driven architectures, and **Infrastructure as Code (IaC)**
+- **🤖 Automation:** advanced workflow automation with **n8n**
+- **📨 Messaging:** event-driven microservices with **RabbitMQ**
+- **📚 Education:** Master’s Degree in Computer Engineering
 
 ---
 
@@ -50,7 +62,7 @@
 <div align="center">
 
 ### Backend, Frameworks & Infrastructure
-<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,prisma&perline=5" />
@@ -58,12 +70,13 @@
     <img src="https://skillicons.dev/icons?i=docker,rabbitmq,nginx,linux,ansible,pulumi" />
   </a>
 </p>
+
 <p align="center">
-  <b>Additional:</b> API Hono, AnalogJS, Fastify, Terraform, MikroTik RouterOS (SD-WAN architectures).
+  <b>Additional:</b> Hono, AnalogJS, Fastify, Terraform, MikroTik RouterOS (SD-WAN architectures).
 </p>
 
 ### Databases & Storage
-<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws" />
@@ -71,7 +84,7 @@
 </p>
 
 ### Frontend Support
-<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,angular,materialui,tailwind" />
@@ -79,11 +92,11 @@
 </p>
 
 ### Integrations & Automation
-<br/>
+
 <p align="center">
-  <b>n8n</b> — Advanced workflow automation <br/>
+  <b>n8n</b> — workflow automation & operational tooling <br/>
   <b>Google APIs</b> & <b>Microsoft Graph API</b> <br/>
-  <b>ChatGPT API</b> — AI-assisted communication <br/>
+  <b>OpenAI API</b> — AI-assisted communication & content flows <br/>
   <b>Web3</b> (Solidity, Hardhat, ERC-20)
 </p>
 
@@ -91,14 +104,31 @@
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Selected Projects
 
-<br/>
+- **🏛️ e-IDEA** — National e-Democracy Platform (2024–2025)
+  - **Role:** Core backend architect
+  - **Impact:** _(add measurable outcomes if you can share: scale, performance, reliability, users)_
+  - **Stack:** NestJS/Node.js, JWT, Diia.Sign integration
+  - **Links:** _(optional)_
 
-- **🏛️ e-IDEA** — National e-Democracy Platform (2024-2025): **Core backend architect**, Diia.Sign integration, JWT-authentication.
-- **📄 Enterprise PDF Automation System & Zoho Platform** (2023-2025): Scalable pipelines with **n8n**, microservices with **RabbitMQ**, React Flow automations.
-- **🏥 krapelnytsia.lviv.ua** (2026): Medical services landing & architecture implementation.
-- **🧸 Kidnation** (May 2024 - Sep 2024): Content generation platform with **AI integrations**.
+- **📄 Enterprise PDF Automation System & Zoho Platform** (2023–2025)
+  - **Role:** Backend / automation engineer
+  - **Impact:** _(automation throughput, time saved, ops improvements)_
+  - **Stack:** n8n, RabbitMQ, microservices, React Flow automations
+  - **Links:** _(optional)_
+
+- **🏥 krapelnytsia.lviv.ua** (2026)
+  - **Role:** Architecture & implementation
+  - **Impact:** _(conversion / performance / delivery speed)_
+  - **Stack:** _(add stack)_
+  - **Links:** _(optional)_
+
+- **🧸 Kidnation** (May 2024 – Sep 2024)
+  - **Role:** Full-stack engineer
+  - **Impact:** _(AI-assisted content generation workflows)_
+  - **Stack:** _(add stack)_
+  - **Links:** _(optional)_
 
 ---
 
@@ -138,26 +168,27 @@
 
 <div align="center">
 
+| Language | Level |
+| --- | --- |
 | 🇺🇦 Ukrainian | Native |
-| 🇬🇧 English | Pre-Intermediate |
+| 🇬🇧 English | **B1** (Pre-Intermediate) |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SterbenXIII&theme=gotham&fire=orange" width="50%"  />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SterbenXIII&theme=gotham&fire=orange" width="50%" />
 </div>
-<br/>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 💻 I build systems that **automate boring stuff** and make developers' lives easier.
+- 💻 I build systems that **automate boring stuff** and make developers’ lives easier.
 - 🏛️ Proud contributor to **Ukraine's digital transformation**.
-- 🥩 When not coding (or serving): perfecting recipes for smoked meats and Asian-style marinades. 🍖
-- ⛰️ And hiking in the Carpathians. 🏔️
+- 🥩 When not coding (or serving): perfecting recipes for smoked meats and Asian-style marinades.
+- ⛰️ Hiking in the Carpathians.
 
 ---
 
