@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vladyslav-Eduard%20(Ed)%20Svystun&fontSize=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20TypeScript%20Developer" />
+  <img src="https://i.pinimg.com/originals/b8/2f/30/b82f30f0f49615a9ff9ab93a1529177a.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Anime Aesthetic Banner" />
 </p>
 
+<h1 align="center">Hi there, I'm Vladyslav-Eduard (Ed) ヾ(＾-＾)ノ</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=F27D16&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+TypeScript+Developer;Backend+%26+Platform+Engineering;Event-Driven+Microservices;IaC+%26+Workflow+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=C678DD&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+TypeScript+Developer;Backend+%26+Platform+Engineering;Event-Driven+Microservices;IaC+%26+Workflow+Automation" />
 </p>
 
 ---
@@ -15,14 +17,14 @@
 
 ---
 
-## ⚡ TL;DR Snapshot
+## ⚡ TL;DR Snapshot (⌐■_■)
 
 - **Role:** Full-Stack / Backend TypeScript Engineer (platform & automation)
 - **Experience:** **7+ years** commercial experience
 - **Focus:** microservices, event-driven systems, secure APIs, Infrastructure as Code
 - **Automation:** **n8n** workflows, integrations, operational tooling
 - **Messaging:** **RabbitMQ** for event-driven architectures
-- **Status:** serving in the **Armed Forces of Ukraine**
+- **Status:** serving in the **Armed Forces of Ukraine** 🇺🇦
 
 ---
 
@@ -38,16 +40,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SterbenXIII&show_icons=true&theme=gotham" alt="Vladyslav's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterbenXIII&theme=gotham&layout=compact&hide=css,html,solidity" alt="Top Langs" width="48%" />
-</p>
-
-</div>
+## (★ω★) About Me
 
 - **🏛️ Backend architect** for national e-gov platforms (e-IDEA) and complex automation systems
 - **🔧 Specialized** in microservices, event-driven architectures, and **Infrastructure as Code (IaC)**
@@ -57,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ✧･ﾟ: *✧･ﾟ:* Tech Stack *:･ﾟ✧*:･ﾟ✧
 
 <div align="center">
 
@@ -104,31 +97,23 @@
 
 ---
 
-## 💼 Selected Projects
+## (ง'̀-'́)ง Selected Projects
 
 - **🏛️ e-IDEA** — National e-Democracy Platform (2024–2025)
   - **Role:** Core backend architect
-  - **Impact:** _(add measurable outcomes if you can share: scale, performance, reliability, users)_
   - **Stack:** NestJS/Node.js, JWT, Diia.Sign integration
-  - **Links:** _(optional)_
 
 - **📄 Enterprise PDF Automation System & Zoho Platform** (2023–2025)
   - **Role:** Backend / automation engineer
-  - **Impact:** _(automation throughput, time saved, ops improvements)_
   - **Stack:** n8n, RabbitMQ, microservices, React Flow automations
-  - **Links:** _(optional)_
 
 - **🏥 krapelnytsia.lviv.ua** (2026)
   - **Role:** Architecture & implementation
-  - **Impact:** _(conversion / performance / delivery speed)_
-  - **Stack:** _(add stack)_
-  - **Links:** _(optional)_
+  - **Stack:** TypeScript, Full-Stack technologies
 
 - **🧸 Kidnation** (May 2024 – Sep 2024)
   - **Role:** Full-stack engineer
-  - **Impact:** _(AI-assisted content generation workflows)_
-  - **Stack:** _(add stack)_
-  - **Links:** _(optional)_
+  - **Stack:** NestJS, Node.js, AI Integrations
 
 ---
 
@@ -146,7 +131,7 @@
 
 ---
 
-## 📫 Get in Touch
+## 📬 Get in Touch
 
 <div align="center">
 
@@ -178,12 +163,12 @@
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SterbenXIII&theme=gotham&fire=orange" width="50%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SterbenXIII&theme=tokyonight&fire=FFB86C" width="50%" />
 </div>
 
 ---
 
-## ⚡ Fun Facts
+## ( ˘▽˘)っ♨ Fun Facts
 
 - 💻 I build systems that **automate boring stuff** and make developers’ lives easier.
 - 🏛️ Proud contributor to **Ukraine's digital transformation**.
@@ -193,5 +178,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </p>
